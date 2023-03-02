@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f13c1f69-db50-4f75-afad-16863a3e995f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LabSheet2/LabSheet2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet2/src/Fir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet2/src/Window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSheet2/src/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSheet2/src/Model.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabSheet1/src/complexNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet1/src/complexNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabSheet2/src/Fir.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet2/src/Fir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabSheet2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabSheet2/src/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet2/src/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet2/Fir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet2/Window.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
