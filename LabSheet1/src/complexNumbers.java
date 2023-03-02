@@ -5,7 +5,6 @@ public class complexNumbers {
         double realNum2 = 4;
         double imgNum2 = -1;
 
-
         double realSum = realNum1 + realNum2;
         double imgSum = imgNum1 + imgNum2;
 
