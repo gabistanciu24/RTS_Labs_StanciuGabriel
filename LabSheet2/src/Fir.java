@@ -1,30 +1,41 @@
 import java.util.Observable;
 
 public class Fir extends Observable implements Runnable {
-
-    private int id;
-    private int priority;
-    private Model model;
-    private int processorLoad;
-
-    public Fir(int id, int priority, Model model, int procLoad) {
-        this.id = id;
-        this.model = model;
-        this.processorLoad = procLoad;
-        this.setPriority(priority);
+    int id;
+    int processorLoad;
+    int priority;
+    int c=0;
+    Thread t;
+    public void start(){
+        if(t==null){
+            t = new Thread(this);
+            t.setPriority(this.priority);
+            t.start();
+        }
+    }
+    Fir(int id,int priority,Window win, int procLoad){
+        this.id=id;
+        this.addObserver(win);
+        this.processorLoad=procLoad;
+        this.priority = priority;
+    }
+    public int getC(){
+        return this.c;
+    }
+    public int getId(){
+        return this.id;
     }
 
-    @Override
-    public void run() {
-        int c = 0;
-        while (c < 1000) {
-            for (int j = 0; j < this.processorLoad; j++) {
-                j++;
-                j--;
+    public void run(){
+        c=0;
+        while(c<1000){
+            for(int j=0;j<this.processorLoad;j++){
+                j++;j--;
             }
             c++;
-            setChanged();
-            notifyObservers(c);
+            System.out.println("Thread " + this.id + ": c = " + this.c);
+            this.setChanged();
+            notifyObservers();
         }
     }
 }
