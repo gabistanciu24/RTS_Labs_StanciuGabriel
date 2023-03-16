@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f13c1f69-db50-4f75-afad-16863a3e995f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LabSheet2/UML Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet3/L3_Example1/L3_Example1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet3/L3_Example1/src/FileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet3/L3_Example1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet3/L3_Example1/src/Rthread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet3/L3_Example1/src/WThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet3/LabSheet3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LabSheet2/Fir.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LabSheet2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LabSheet2/Window.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabSheet2/src/Fir.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet2/src/Fir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabSheet2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabSheet2/src/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet2/src/Window.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabSheet2/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabSheet3/L3_Example1/src/Rthread.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet3/L3_Example1/src/Rthread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet3/L3_Example1/messages.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

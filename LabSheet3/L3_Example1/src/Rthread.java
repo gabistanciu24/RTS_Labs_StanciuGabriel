@@ -19,7 +19,7 @@ public class Rthread extends Thread{
                 System.out.println(readMsg);
 
                 Thread.sleep(3000);
-                Thread.wait(30);
+               // Thread.wait(30);
 
             } catch (Exception e) {
 
