@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f13c1f69-db50-4f75-afad-16863a3e995f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/LabSheet3/L3_Example1/src/Rthread.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet3/L3_Example1/src/Rthread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/messages.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet3/L3_Example1/messages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSheet3/L3_Example3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabSheet3/L3_Example1/src/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet3/L3_Example1/src/FileService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,10 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gabig\Desktop\RTS_Labs_repo\RTS_Labs_StanciuGabriel\LabSheet3" />
+      <recent name="C:\Users\gabig\Desktop\RTS_Labs_repo\RTS_Labs_StanciuGabriel\LabSheet3\L3_Example1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
