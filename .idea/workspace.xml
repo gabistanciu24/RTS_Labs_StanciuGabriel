@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f13c1f69-db50-4f75-afad-16863a3e995f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LabSheet3/L3_Example3/src/JoinTestThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LabSheet3/L3_Example3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet3/L3_Example3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSheet4/LabSheet4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSheet4/src/ExecutionThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSheet4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +30,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2MSF3gDpIizFATsuKRqqzivbsqT" />
   <component name="ProjectViewState">
