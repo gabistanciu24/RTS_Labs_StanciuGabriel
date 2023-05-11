@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f13c1f69-db50-4f75-afad-16863a3e995f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LabSheet4/LabSheet4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet4/src/ExecutionThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabSheet4/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabSheet3/L3_Example3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet3/L3_Example3/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabSheet4/LabSheet4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LabSheet4/LabSheet4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabSheet4/src/ExecutionThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabSheet4/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gabig/Desktop/RTS_Labs_repo/RTS_Labs_StanciuGabriel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/gabig/Desktop/RTS_Labs_repo/RTS_Labs_StanciuGabriel/LabSheet4"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
