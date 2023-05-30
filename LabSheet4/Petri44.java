@@ -23,24 +23,35 @@ public class Petri44 extends Thread{
             i++;
             i--;
         }
-        if (this.lock1.tryLock()) {
-            System.out.println(this.getName() + " - STATE 2");
-            int k = (int) Math.round(Math.random() * (activity_max - activity_min) + activity_min);
-            for (int i = 0; i < k * 100000; i++) {
-                i++;
-                i--;
-            }
-            if (this.lock2.tryLock()) {
-                System.out.println(this.getName() + " - STATE 3");
-                try {
-                    Thread.sleep(sleep * 1000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
+        if (this.lock1.tryLock())
+            try {
+                System.out.println(this.getName() + " - STATE 2");
+                int k = (int) Math.round(Math.random() * (activity_max - activity_min) + activity_min);
+                for (int i = 0; i < k * 100000; i++) {
+                    i++;
+                    i--;
                 }
-                this.lock2.unlock();
+                if (this.lock2.tryLock())
+
+                    try {
+                        System.out.println(this.getName() + " - STATE 3");
+                        Thread.sleep(sleep * 1000);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    } finally {
+                        this.lock2.unlock();
+                    }
+
+          } catch (Exception e) {
+                throw new RuntimeException(e);
             }
-            this.lock1.unlock();
-        }
+//            catch (InterruptedException e) {
+//                e.printStackTrace();
+//            }
+           // finally{
+                this.lock1.unlock();
+         //   }
+
         System.out.println(this.getName() + " - STATE 4");
     }
 }
